@@ -1,2 +1,2 @@
 # githubDemo
-this is used for git hub demo
+this is used for github demo
